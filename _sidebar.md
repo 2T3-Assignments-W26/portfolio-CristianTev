@@ -6,5 +6,6 @@
   - [PowerShell](cheatsheets/powershell.md)
 
 - About Me
-- [Reusme](aboutme/Cristian_PerezRamos_ID.md)
-- [My Projects](aboutme/myProjects.md)
+- [Resume](Aboutme/Cristian_PerezRamos_2472186.md)
+- [My Projects](Aboutme/myProjects.md)
+
