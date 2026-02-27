@@ -1,0 +1,28 @@
+
+Cristian Pérez Ramos
+
+SOFT SKILLS:
+- Strong team worker (prefer working in groups)
+- Backend-oriented mindset
+- Fast learner
+- Enjoys solving complex problems
+- Highly perseverant
+- Future-oriented (wants to become a software developer)
+
+TECHNICAL SKILLS:
+- Comfortable programming in C#
+- Experience with multidimensional arrays
+- Git version control (add, commit, push, branches)
+- Comfortable using the terminal
+- Strong Markdown formatting skills
+- Backend logic focused
+- Problem-solving oriented
+
+PROGRAMMING INTERESTS:
+- Backend development
+- Logic building
+- Software engineering
+- Writing clean and structured code
+
+CAREER GOAL:
+To become a professional software developer and continuously improve technical and problem-solving skills.
